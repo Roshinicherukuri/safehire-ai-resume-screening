@@ -1,0 +1,4 @@
+Alex Kumar
+Python developer with experience in Python, SQL, Pandas, Scikit-learn,
+NLP, machine learning, REST API development and Git. Built data preprocessing
+pipelines and deployed applications using Docker.

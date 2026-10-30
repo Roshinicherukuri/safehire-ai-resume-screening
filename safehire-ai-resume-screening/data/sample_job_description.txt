@@ -1,0 +1,3 @@
+Python developer with experience in Python, SQL, Pandas, Scikit-learn,
+NLP, REST APIs, machine learning, Git and Docker. The candidate should
+be comfortable with data preprocessing and building ML applications.
